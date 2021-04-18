@@ -13,7 +13,7 @@ Zemo never liked this world..._Nexi_ it was called. Things had always been odd a
 
 The people here called them selves the _Dereese_ and they said it was not always like this, they said the strangeness started around 20 adex (~ 20 years) ago...their scientists and researchers had never been able to solve the mystery, and instead they coped...and built their tech to be as stable as it could be. He also found the people here odd, and wondered if that had not always been as well.
 
-All of that oddness could not explain their behavior now...without reason or warning they had locked down the port city in which Zemo's ship the _Sera Freedom_ had landed and a panic had seemed to grip their government channels. The captain had ordered all hands back to the ship and to make preparations to break through and flee the lockdown if needed. The items they had intended to sell he ordered left on the landing deck.
+All of that oddness could not explain their behavior now...without reason or warning they had locked down the port city in which Zemo's ship the _Sera Freedom_ had landed, and the government com channels had become a wash of panicked officials relaying orders which they seemed to not understand. The captain had ordered all hands back to the ship and to make preparations to break through and flee the lockdown if needed. The items they had intended to sell he ordered left on the landing deck.
 
 Some rookie corsairs might think the captain dumb or cowardly for such actions, to them he would say - if he cared to say it - "that is the only way a rogue could live as long as the captain...and being prepared to run lightly in space is always wise..." - if he cared to say it.
 
