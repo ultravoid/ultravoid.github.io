@@ -6,8 +6,8 @@ categories: Stories
 author: "ultravoid"
 ---
 
-**Galaxy: Gemi'holon**
-**Sector: Ter'tai'deroga (erappa)**
+**Galaxy: Gemi'holon**<br>
+**Sector: Ter'tai'deroga (erappa)**<br>
 
 Zemo never liked this world..._Nexi_ it was called. Things had always been odd at this port of call...little things. Mag compasses were mostly useless, even though they shouldn't be, and gear that was normally reliable had to be constantly reset. All forms of coms were unreliable, plagued with static, and prone to channels crossing. And if that was not enough reason to be wary of this place, this system was a mere two jumps to the Ogion protectorate frontier markers and the demons beyond.
 
