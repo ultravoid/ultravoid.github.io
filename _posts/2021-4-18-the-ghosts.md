@@ -9,7 +9,7 @@ author: "ultravoid"
 **Galaxy: Gemi'holon**<br>
 **Sector: Ter'tai'deroga (erappa)**<br>
 
-Zemo never liked this world..._Nexi_ it was called. Things had always been odd at this port of call...little things. Mag compasses were mostly useless, even though they shouldn't be, and gear that was normally reliable had to be constantly reset. All forms of coms were unreliable, plagued with static, and prone to channels crossing. And if that was not enough reason to be wary of this place, this system was a mere two jumps to the Ogion protectorate frontier markers and the demons beyond.
+Zemo never liked this world..._Nexi_ it was called. Things had always been odd at this port of call...little things. Mag compasses were mostly useless, even though they shouldn't be, and gear that was normally reliable had to be constantly reset. All forms of coms were unreliable, plagued with static, and prone to channels crossing. If all that was not enough reason for Zemo to be wary of this place, Nexi was a mere two jumps from the protectorate frontier markers and the Ogion hunters and demons beyond.
 
 The people here called them selves the _Dereese_ and they said it was not always like this, they said the strangeness started around 20 adex (~ 20 years) ago...their scientists and researchers had never been able to solve the mystery, and instead they coped...and built their tech to be as stable as it could. He also found the people here odd, and wondered if that had not always been as well.
 
