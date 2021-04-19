@@ -17,7 +17,7 @@ All of that oddness could not explain their behavior now...without reason or war
 
 Some rookie corsairs might think the captain dumb or cowardly for such actions, to them Zemo would say - if he cared to say it - "that is the only way a rogue could live as long as the captain...and being prepared to run lightly in space is always wise..." - if he cared to say it.
 
-On the bridge of the _Sera Freedom_ the sensor monitors showed the _Dereese_ fleet moving into formations above Nexi. The captain ordered Zemo to use his talents, and tap into the surveillance feeds and find out what has happening. Zemo went to his station and worked quickly, the _Dereese_ did not have a mind for security and he was able to assume an trusted identity with ease. "I'm into their civil surveillance net" Zemo said through his translator "look in the western continents..." said the captain.
+On the bridge of the _Sera Freedom_ the sensor monitors showed the _Dereese_ fleet moving into formations above Nexi. The captain ordered Zemo to use his talents, and tap into the surveillance feeds and find out what has happening. Zemo went to his station and worked quickly, the _Dereese_ did not have a mind for security and, through sub-novum interferomance, he was able to assume a trusted identity with ease. "I'm into their civil surveillance net" Zemo said through his translator "look in the western continents..." said the captain.
 
 Zemo started going through feeds...they were not organized in any way, many were dead static...some were of warehouses, some on streets. Zemo cycled through dozens and dozens of everyday scenes of life on Nexi...warehouse after warehouse...common areas, streets, hab sectors...and more dead signals.
 
@@ -31,4 +31,4 @@ The mist continued its wispy march into the street pulling horrified and screami
 
 It was total carnage, _Dereese_ body parts and pink blood were everywhere, the stone street drained away the blood forming reverse tributaries fed by piles of death. As Zemo's mind began to grasp what he was seeing, he thought he could see blood jumping and dancing in time with shiny metallic flickers from the mist front before falling as sticky rain. Something was tearing the _Dereese_ to pieces and leaving no survivors.
 
-"I think something invisible is out there" Zemo said, as the thrusters power up and Zemo was pushed hard into his seat, he felt the need to say. "Derehm help us"
+"I think something invisible is out there" Zemo said, as the thrusters powered up Zemo hard into his seat, he felt the need to say. "Derehm help us"
