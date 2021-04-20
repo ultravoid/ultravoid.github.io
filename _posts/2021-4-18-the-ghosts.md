@@ -31,4 +31,4 @@ The mist continued its wispy march into the street pulling horrified and screami
 
 It was total carnage, _Dereese_ body parts and pink blood were everywhere, the stone street drained away the blood forming reverse tributaries fed by piles of death. As Zemo's mind began to grasp what he was seeing, he thought he could see blood jumping and dancing in time with shiny metallic flickers from the mist front before falling as sticky rain. Something was tearing the _Dereese_ to pieces and leaving no survivors.
 
-"I think something invisible is out there" Zemo said, as the thrusters powered up Zemo hard into his seat, he felt the need to say. "Derehm help us"
+"I think something invisible is out there" Zemo said, as the thrusters powered up and pushed Zemo hard into his seat, he felt the need to say. "Derehm help us"
