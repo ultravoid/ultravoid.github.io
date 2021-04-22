@@ -15,6 +15,7 @@ permalink: /time-and-distance/
 - adex = .959 years
     - ketadex = 10 adex
     - soradex = 100 adex
+    
 **distance**<br>
 - setch = 1 inch
 - setta = 20 setch
