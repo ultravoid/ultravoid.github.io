@@ -3,25 +3,36 @@ layout: page
 title: Time And Distance
 permalink: /time-and-distance/
 ---
-- 1 Imex = 1 second
-    - Interum = 100 Imex
-- 1 Caldex = ~1.1 days
-    - Ritodex = 10 Caldex
-    - Kaydex = 30 Caldex
-- 1 Adex = .959 years<br>
 
+## Universal Time and Distance Measures of the Ascendant Vassals
+
+**time**<br>
+- imex = 1 second
+    - interum = 100 Imex
+- caldex = ~1.1 days
+    - ritodex = 10 caldex
+    - Kaydex = 30 caldex
+- adex = .959 years
+    - ketadex = 10 adex
+    - soradex = 100 adex
+**distance**<br>
+- setch = 1 inch
+- setta = 20 setch
+- lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)
+- tekudex = 100,000 setch (~a mile and a half) or 5000 setta
+- stardex is the distance light travels in an adex
 
 _**Micro Time Format Description:**_<br>
 
 **Inter-Seta-Inem** (_somewhat equivalent to "hour-minute"_)
 
-Imex = 1 second<br>
-Interum = 100 imex<br>
-Setadex = 1,000 imex(16 minutes)<br>
-Interdex = 10,000 imex(slightly less than 3 hours)<br>
-Caldex = 100,000 imex(slightly less than 28 hours)<br>
-Ritodex = 10 Caldex<br>
-Kaydex = 30 Caldex<br>
+imex = 1 second<br>
+interum = 100 imex<br>
+setadex = 1,000 imex(16 minutes)<br>
+interdex = 10,000 imex(slightly less than 3 hours)<br>
+caldex = 100,000 imex(slightly less than 28 hours)<br>
+ritodex = 10 caldex<br>
+kaydex = 30 caldex<br>
 
 **Ada-Kayd-Caldex** (_day-moth-year equivalent_)
 
@@ -52,14 +63,14 @@ citation date<br>
 
 ### Distance
 
-Stardex is the distance light travels in an Adex<br>
-Setch = inch equivalent<br>
-Setta = 20 setch<br>
-Lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)<br>
-Tekudex = 100,000 setch (~a mile and a half) or 5000 setta<br>
-Hatadex = 10,000 Tekudex<br>
-Metradex = 1,000,000 Tekudex<br>
-Dexardex = 1,000,000,000 Tekudex<br>
+stardex is the distance light travels in an adex<br>
+setch = inch equivalent<br>
+setta = 20 setch<br>
+lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)<br>
+tekudex = 100,000 setch (~a mile and a half) or 5000 setta<br>
+hatadex = 10,000 tekudex<br>
+metradex = 1,000,000 tekudex<br>
+dexardex = 1,000,000,000 tekudex<br>
 
 #### Micro Distance
 
