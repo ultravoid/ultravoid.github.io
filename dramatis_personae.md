@@ -6,41 +6,57 @@ permalink: /dramatis-personae/
 
 ### Ellemie Garden, Daratia
 
-- Neta Domiata
+- Neta Domiata (sonovian'dom)
     - Elite Ban Vara, Honored Envoy
-- Thora Chinto
+- Thora Chinto (sonovian'het)
     - Neta's mother (assigned care taker), Honored Mother of _Segetum Pri_
-- Shem Poe
+- Shem Poe (sonovian'telatra)
     - Maestro Engineer, Adept of cage and conduit _Segetum Hexus_
 
 ### The Frontier/Erappa
 
-- Draga Hekta
+- Draga Hekta (priata'reg'not)
     - Maestro Savant of Life
-- Uxur'rodex
+- Humrego Yath (hur'srata'det)
+    - Selet'ecati (recruiter) for the Or'sato Greda, assigned to Gemi'holon galaxy, Tek'demus, Ulma'nesta, Emhetra sectors
+- Uxur'rodex (sonovian'telatra)
     - Elite Engineer, maestro of cage and conduit
 - Ray'heta Hy'tetra
-    - Privateer, commission is held by the _Eradeus maxur_, Gemi'holon galaxy, Emhetra sector
+    - Privateer, self proclaimed void-admiral, commission is held by the _Eradeus maxur_, Gemi'holon galaxy, Emhetra sector
+- Un'drema (regusum'vaft)
+    - first adjutant, member of the command cartel of void-admiral Ray'heta Hy'tetra, Gemi'holon galaxy, Emhetra sector
+- Argo'mat (dedextra'not)
+    - second adjutant, member of the command cartel of void-admiral Ray'heta Hy'tetra, Gemi'holon galaxy, Emhetra sector
+- Ahm'gata (septra'not)
+    - third adjutant, member of the command cartel of void-admiral Ray'heta Hy'tetra, Gemi'holon galaxy, Emhetra sector
 - Zemo Arateus
-    - Ancient rouge (pirate) of the corsair clan _Rah amalam_, Gemi'holon galaxy, Emhetra sector
+    - Ancient rouge (pirate) of the corsair clan _Rah amalam_, Gemi'holon galaxy, Emhetra, Ter'tai'deroga, Heg Juter sectors
+- Regma'tai (chen gara)
+    - Frontier breaker, co-custodian of Andra Palnus, Helorque, soul bonded to Getta'tai
+- Getta'tai (chen gara)
+    - Frontier breaker, co-custodian of Andra Palnus, Helorque, soul bonded to Regma'tai
 
 ### The Hyperg'enot
 
 - Haego Rexus
-    - Emperor of the Hyperg'enot, High lord of the Rexus Dynast
+    - Emperor Diatas of the Hyperg'enot, High lord of the Rexus Dynast
 - Oroto Rexus
-    - Patriarch of the Rexus Dynast
+    - High Lord Patriarch of the Rexus Dynast
 
 ### Or'sato Greda Temple Voro Gata, E'repadie
 
-- Xer To'gata
-    - Principle assessor of the _Voro Gata_
+- Xer To'hegma
+    - Principle assessor, Voro Gata
 - Lehr Met'thune
-    - Principle Game maestro of the _Voro Gata_
+    - Principle Game maestro, Voro Gata
 - Setra Edex
-    - Game maestro of Personal combat of the _Voro Gata_
+    - Game maestro of Personal combat, Voro Gata
 - Sheg Erapta
-    - Game maestro of armed combat of the _Voro Gata_
+    - Game maestro of armed combat, Voro Gata
+- Drul'do
+    - Game maestro general of kototorium twelve, Voro Gata
+- Emrat'Hypa
+    - Game maestro general of kototorium two, Voro Gata
 
 ### Neta's sisters
 
