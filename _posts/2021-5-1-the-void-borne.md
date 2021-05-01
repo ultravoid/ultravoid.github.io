@@ -12,7 +12,7 @@ author: "ultravoid"
 
 _Shresta Primatt (Void city)_
 
-_The border of the Erappa_
+_The border of the Erappa(the 'freeworlds')_
 
 As their shuttle thrusters fired to alter course, Getta'tai and Regma'tai were pushed hard into their seats and Regma could only speak between fights for breath. "this wasn't a good idea....you are going too fast...our orbit is too low....we're going to get fined again" Regma'tai complained to her mate and partner "hmpf..whatever" replied Getta'tai, his bright yellow eyes darting between consoles and gauges as he worked the shuttle controls with his slender, dark chen gara hands "you knew if we got stuck behind that _Semlous_ freighter we could of been floating in mag lock for another ritodex (~11 days)..." Regma left it at that and went back to monitoring the shuttle instruments, if something was going to fail it would be now. A cold death was as close as misjudgment or bad luck Regma's first father had always said. He also said not to add distracting arguments to that list of hazards, especially ones that could be settled later.
 
