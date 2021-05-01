@@ -1,29 +1,47 @@
-I"w<ul>
-  <li>1 Imex = 1 second
+I"�
+<h2 id="universal-time-and-distance-measures-of-the-ascendant-vassals">Universal Time and Distance Measures of the Ascendant Vassals</h2>
+
+<p><strong>time</strong><br /></p>
+<ul>
+  <li>imex = 1 second
     <ul>
-      <li>Interum = 100 Imex</li>
+      <li>interum = 100 Imex</li>
     </ul>
   </li>
-  <li>1 Caldex = ~1.1 days
+  <li>caldex = ~1.1 days
     <ul>
-      <li>Ritodex = 10 Caldex</li>
-      <li>Kaydex = 30 Caldex</li>
+      <li>ritodex = 10 caldex</li>
+      <li>Kaydex = 30 caldex</li>
     </ul>
   </li>
-  <li>1 Adex = .959 years<br /></li>
+  <li>adex = .959 years
+    <ul>
+      <li>ketadex = 10 adex</li>
+      <li>soradex = 100 adex</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>distance</strong><br /></p>
+<ul>
+  <li>setch = 1 inch</li>
+  <li>setta = 20 setch</li>
+  <li>lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)</li>
+  <li>tekudex = 100,000 setch (~a mile and a half) or 5000 setta</li>
+  <li>stardex is the distance light travels in an adex</li>
 </ul>
 
 <p><em><strong>Micro Time Format Description:</strong></em><br /></p>
 
 <p><strong>Inter-Seta-Inem</strong> (<em>somewhat equivalent to “hour-minute”</em>)</p>
 
-<p>Imex = 1 second<br />
-Interum = 100 imex<br />
-Setadex = 1,000 imex(16 minutes)<br />
-Interdex = 10,000 imex(slightly less than 3 hours)<br />
-Caldex = 100,000 imex(slightly less than 28 hours)<br />
-Ritodex = 10 Caldex<br />
-Kaydex = 30 Caldex<br /></p>
+<p>imex = 1 second<br />
+interum = 100 imex<br />
+setadex = 1,000 imex(16 minutes)<br />
+interdex = 10,000 imex(slightly less than 3 hours)<br />
+caldex = 100,000 imex(slightly less than 28 hours)<br />
+ritodex = 10 caldex<br />
+kaydex = 30 caldex<br /></p>
 
 <p><strong>Ada-Kayd-Caldex</strong> (<em>day-moth-year equivalent</em>)</p>
 
@@ -54,14 +72,14 @@ citation date<br />
 
 <h3 id="distance">Distance</h3>
 
-<p>Stardex is the distance light travels in an Adex<br />
-Setch = inch equivalent<br />
-Setta = 20 setch<br />
-Lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)<br />
-Tekudex = 100,000 setch (~a mile and a half) or 5000 setta<br />
-Hatadex = 10,000 Tekudex<br />
-Metradex = 1,000,000 Tekudex<br />
-Dexardex = 1,000,000,000 Tekudex<br /></p>
+<p>stardex is the distance light travels in an adex<br />
+setch = inch equivalent<br />
+setta = 20 setch<br />
+lirhetta = 40 setch (~1 meter, 1 meter = ~39.4 setch)<br />
+tekudex = 100,000 setch (~a mile and a half) or 5000 setta<br />
+hatadex = 10,000 tekudex<br />
+metradex = 1,000,000 tekudex<br />
+dexardex = 1,000,000,000 tekudex<br /></p>
 
 <h4 id="micro-distance">Micro Distance</h4>
 
