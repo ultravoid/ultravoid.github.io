@@ -105,3 +105,5 @@ As Getta was thanking the authority and getting their keys Regma noticed an unus
 Behind them were more menacing escorts —who's mag boots sounded loud on the deck unlike their master— with what looked to be a prisoner with their hands restrained in between two of them. "have you ever seen anything like that?" she asked Getta once he was done with the station clerk. "looks like they're bringing someone in, maybe a wanted pirate?" Getta offered "who are 'they'" Regma responded motioning to the tall black and silver clad entity and their escort on the landing deck below "I don't know...not the legion or protectorate...must be one of those 'free riders'...or whatever they call themselves..." "hmmm" Regma mused...quickly forgetting them as thoughts of their next task formed in her mind.
 
 She had tried not to think much about the unpleasant topic but could avoid it no more...she turned to Getta and asked "so..." his sigh and bowed head told her he already knew what she was going to say "...who's family do we visit first?"
+
+-----------------------------------------
