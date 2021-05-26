@@ -9,51 +9,78 @@ author: "ultravoid"
 **Galaxy: Gemi'holon**<br>
 **Sector: Emhetra**<br>
 **System: Reg'tiak**<br>
+**Planet Vit'os**
 
-It was a bug hunt. I hate bug hunts, hive swarmers feel no pain, and dispense it without mercy. My job is much harder on bug hunts. What do they want with this shadt hole of a world anyway? It's not very green, the weather matches the landscape, bleak and uninviting. Despite the grey clouds, rain has not touched this dusty ground in a long time I'm guessing; there is plenty of lightning though, blue and white snaps that compliment the sharp angles of the terrain. Legionatus command had sent her squad of exa'legionate troopers to these mountains to find a local militia, that had gone missing while responding to distressed citizens. The latest of many mysterious disappearances on this border world.
+_northern polar area_
 
-During pre-drop briefing, command had informed them that cross-void swarmers —with an impossibly long official designation but known in this space simply as vetaxa's— had been moving quickly throughout this sector. The suddenly missing citizens in mass, seemingly random episodes where little or no traces are left, combined with known vetaxa's activity; made Legionatus command believe the would be a bug hunt for vetaxa's swarmers. This mission will end like they usually do thought Prix —lots of dead bugs. Not expecting much beyond that.
+It was a bug hunt. I hate bug hunts, hive swarmers feel no pain, and dispense it without mercy. My job is much harder on bug hunts. What do they want with this shadt hole of a world anyway? It's not very green, the weather matches the landscape, bleak and uninviting. Despite those black and grey clouds, rain hasn't touched this place in a long time I'm guessing; there is plenty of lightning though, blue and white and snappy; the bolts compliment the sharp angles of the mountain terrain, and the grey rocks compliment the grey and black clouds. Haven't seen a trace of the militia or citizens Legionatus command sent us to this place to find; not gonna hold my breath for any either.
 
-At least —during a bug hunt— it's easy to tell friend from foe. Prix's eyes caught a spiny shadow moving far ahead of her squad.
+During pre-drop briefing commander Ter Hemner had told her —and the rest of her squad of exa'legionate troopers— that "cross-void swarmers —known in this space as vetaxa's— are believed to be responsible for mass losses of life without a trace; in systems: Matcha'tiak, Hol-dreda, and Eli'par. Our current location in the Reg'tiak system, is far from the border where these attacks occurred —the Terr'tai'deroga sector—. However, the vatex's are capable of jumping up to forty stardex (~ 40LY); if they have planted a hive beacon on a planet or other body in an area..." Hemner said more but the extra intel was clear; word is...command thinks this is a bug hunt and so, lots of dead bugs, don't expect much more than that Prix.
 
-"Dixo two, movement ahead"<br>
+To the the exa'legionate troopers, a "bug hunt" is a simple minded affair; to deal with a simple minded enemy; or draw out the bigger enemy. For the commanders, the bigger enemy was a jackpot; to the troopers, it didn't really feel like something lucky; troopers were used to unlucky things.
+
+At least during a bug hunt it's easy to tell friend from foe. I see a spiny looking shadow in the rocks ahead; raising the trooper leader.
+
+Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
-_pfump pfump pfump brapp brapp_<br>
+Dixo: "contact ground swarmers"<br>
+_PFump-PFump-PFump BRRapp BRRapp_<br>
 
-The troopers fired their mag bolters into a swarm pouring out from the low rocks, the bolter reports mixing with sharp bangs from the expolding bolt ammunition. That's 20..21..22, her nero-interface updating command with the number of dead swarmers. Gotta remember to keep an eye on the rocks above...I can't see anything with all that interference. After what she estimated was at least 60 swarmers getting gunned down, the din of gunfire abruptly stopped. The attack seems over.
+Watch the for a support request signal...looks like they've got it handled. The troopers are reporting: 20..21..22 dead swarmers, didn't even need grenades, just a few exa'bolts a piece. Gotta remember to keep an eye on the rocks above...I can't see anything with all that interference, are those clouds just ash?. 40....45... guess they aren't going to let me take any down. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
 
-A blinking amber symbol in her upper HUD told her the boss wanted an update.
+Attack seems over.
+
+An amber symbol starts blinking in her upper HUD; the boss wants an update.
 
 Prix: "Squad I see all green?"
 
-Each trooper confirmed through their own interface they had no injuries; as they did, green dots lighted up in the lower right corner of her HUD; until fourteen —one for each trooper— was lit.
+Each trooper confirmed through their own interface they had no injuries; as they did, green dots —on for all fourteen troopers— lit up in the lower right corner of her HUD..
 
 Prix: "Command we are all clear"
 
-Commander Ter Hemner should be pleased at our efficiency? Not by his tone....<br>
+Commander Ter Hemner should be pleased at our efficiency?<br>
+Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"
 
- _CRAAACK_ She couldn't tell which other support trooper fired the heavy bolter shot, but she followed its victim's fall backwards to the rest of the incoming airborne swarm. In a single movement she swung her heavy bolter up to sight and meet the air ambushers. They look nasty, —everything the pre-drop briefing had promised— talons and spines, animated by a furious, destructive, primal instinct; all attached to more wings than seems necessary. _CRAAACK_ her bolt went dead center through the nerve stem of a flyer; it tumbled forwarded, the echoing from her shot still sounding when it plunged into the ground. _CRAACK_.._CRAACK_ two more down. Trooper mag bolters —sounding like small puffs compared to her long range rifle— joined into taking down the flyers. Seemingly syncronized with the flyers, ground swarmers charged out from the rocks and over the bodies of their fallen brethren. _BOOOMM BOOOMM BOOOMM_ guess the troopers decided to bring out the bigger munitions. _BOOOMM BOOOMM_ Yeah, splattered the last bit it looks like.
+ _CRAAACKackkack_ Oh FUJUT were are THEY? There's one falling, dead, and there is the rest, do I even need to sight? _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's why they has so many wings. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we have mutual feeling it seems. _CRAAACKackkack_ do I need to activate?... _CRAAACKackkack_ Activating distress.
 
- In the corner of her HUD two of the green lights turned blue, indicating minor wounds. Looks like I'm on the clock. She powered up her position translator and teleported into the cover of some rocks near the squad. A bright flash followed by a shrieking bang giving away her movement and destination. Opening eyes that she closed to ease translation disorientation, she felt the ground under her feet, stowed her weapon, deployed her medic shield, and turned to find the wounded troopers. One of the blue dots started blinking; one of the other support troopers had gotten to the other injured trooper and was assessing.
+ Prix: "I don't think I can't take all of them down"
+ Dixo: "CONCUSSION GRENADES"
+ _BOOOMM BOOOMM BOOOMM_
+Ummff! Deploying shield, switching to carbine...shadt...Hemner's gonna kill me when he finds out I dropped my heavy bolter...but those concussion blasts?...
+ _BOOOMM BOOOMM_
+Upfff...that's close troopers...even for guided concussion grenades. Oh more ground swarmers are coming, charging through their dead brethren doesn't seem smart.
+ _BOOOMM BOOOMM BOOOMM_
+Look like the last of them.
 
-There they are, plenty of cover, defensive perimeter setup, checking in the injury and downloading their info and vitals, scanning the trooper.
+Dixo: "All contacts terminated"
+Hemner: "Squad Hettra you are all clear"
+Ughh, breath deep...the nausea will pass...the war shock symptoms always do...
 
- Both dots start blinking in her HUD.
+In the corner of her HUD two of the green lights turned blue, indicating casualties; looks like I'm on the clock. Both injured callsigns are new, replacements for lost troopers that came in on the last rotation. Powering up position translator, I see a good spot with rock cover. Close to one of the injuries; close my eyes, relax, it'll be quick, _BLAAPBANGannggang_. Few things are louder, or brighter than a position translation by a standard issue, exa'legionate support trooper, location projector.
 
- Semeshea Emyatta, callsign Emyatta 6; Sedra'hk'not, —a tough and resilient gene nexus— had sustained a deep gash; grazing a few bones; from mid abdomen, to mid chest. The gash must have bled hard for so much blood to get out before her suit sealed her with arrestor foam. Both of her hearts are beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poising. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, med kit and wash cooker powered up.
+opening my eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Other casualty is getting taken care of, one less injured on the field.
 
- Prix: "Can you her me?"<br>
- Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes and a well angled hemegeniocx type face and head —two eyes, above a protruding nasal passage, above a single mouth. Wow she's good looking...stay focused Prix...
+There's the injured trooper, under plenty of cover, starting vital and data download, starting medical scan, checking-in the injury.
 
-The nice mouth speaks.<br>
+Both dots start blinking in her HUD.
+
+Info downloaded: Semeshea Emyatta, callsign Emyatta 6; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; grazing a few bones; no organs damaged; no major blood vessels damaged; from mid abdomen, to mid chest. The cut must have bled hard; there is so much blood on her; also a really wide gash in her armor; the arrestor foam has done its job, it stopped all the bleeding. Both of her hearts are beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, med kit and wash cooker powered up.
+
+Prix: "Can you her me?"<br>
+Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes and a well angled hemegeniocx type face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
+
+Wow one good looking trooper...stay focused Prix...
+
+Her mouth is moving, she's answering, ugh the translator is lagging...
 Shemeshea: "Yes"<br>
 I could get used to that voice, translated or not...<br>
 Prix: "I'm going to remove your armor to get a better scan so I can fix you up"<br>
 Shemeshea: "OK doc"<br>
 Prix: "Follow the light with your eyes"<br>
 
-Her pupils are dilated, not sure what that means, making a physio query; should do a quick cognitive test while that runs.<br>
+Breaking out some basic stimulus tests; her pupils are dilated, not sure what that means, making a physio query; should do a quick cognitive test while that query runs.<br>
+
 Prix: "Whats you GN-type?"<br>
 Shemeshea "Sedra'hk'not"<br>
 
@@ -65,37 +92,57 @@ Shemeshea: "Shemeshea Emyatta, callsign Emyatta 6"<br>
 Prix: "alright I'm taking your armor and off and going to see how bad this is"<br>
 Shemeshea "OK doc"<br>
 
-This is definitely were all the blood came from. Impressive physiology; this Sedra is all taught, limber muscle; a born warrior...stay focused Prix. Standard medae'bot wash should do it, just have to calibrate it for her. Medi washes are cooking, just enough time to clean and prep the wound.
+This is definitely were all the blood came from. Impressive physiology; this Sedra trooper is all taught, limber muscle; a born warrior...stay focused Prix. Standard medae'bot wash should do it, just have to calibrate it for her. Medae washes are cooking, just enough time to clean and prep the wound.
 
 Prix: "I'll have something for your pain soon, just have to synthesize it"<br>
+I usually don't bother telling them...sounds weird given were we are. Not sure what's gotten into me.
 Shemeshea: \*nods\*<br>
 
-All ready; looks like I got most of the bug bits out, wash should dissolve the rest, mag ointment applied.
+Looks like I got most of the bug bits out, wash should dissolve the rest, mag ointment applied.
 
 Prix: "This will sting a bit at first, but should go numb right after"<br>
 Shemeshea: \*nods\*<br>
 
-Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
-Shemeshea: "A flyer did; with one of their talons"
+Again! Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. She has cells which neutralized it before it did any damage...wow.
 
-"There was some mild acid, but your body neutralized most of it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
+Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
+Shemeshea: "A flyer did, with one of their talons"
+
+"There was some acid, but your body neutralized most of it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
 Shemeshea: "I'll try not to..."
 
-Prix: "Do you have any question for me?"<br>
+Prix: "Any questions?"<br>
 Shemeshea: \*shakes her head eyes staying Prix's face\*
 
-Heart rates are going down, wound is reacting well. Almost time to say good by. Those dark eyes, almond discs with rings of what could be dark living amethyst making her irises, they have a haunting glint to them; also still dilated; i think it takes more than the pain drugs to explain...oh shadt! How long was I staring into her eyes!? Might as well say something...breath deep.
+Her heart rates are going down, wound is reacting well. Almost time to say goodbye. Those dark eyes; almond discs with irises that looked like living dark amethyst; there is a haunting glint to them; also still dilated; i think it takes more than the pain drugs to explain...oh shadt! How long was I staring at her eyes!? Might as well say something, as long as shes still checked-in as an injury they had a private channel. Breath deep.
 
 Prix: "Do you like bunk visitors?"<br>
-She's looking at me but not saying anything...did she not understand? maybe she's to much of a rookie to...<br>
+She's looking at me but not saying anything...did she not understand? maybe she's...<br>
 Shemeshea: "Yes"
 
-Deactivating atmospheric exclusion field, stowing medi kit, stowing shield, she takes my hand I offer to help her up, looks like she's already strong enough to walk again. These are rare, normally I would be immersed in gratefulness at such an easy casualty remediation; something else was on my mind though.
+Whew...okay lets not draw any attention from the bosses. Deactivating atmospheric exclusion field, stowing medi kit, stowing shield.
+Prix: "Can you get up?" \*extending hand\*
 
-As I sign off on her returning to duty; one of the dots stops blinking and turns from blue. Shemeshea's faceplate goes from clear to flat grey matching the ground and sky. She attaches suture buttons in several places on either side of the gash in her armor. The buttons deploy magautoriom fibers which grasp each other from across the rift of tega'steel armor plate and tighten, closing the gap in her defensives; the warrior fixes her tools of the trade in the same way that Prix fixes the tools of the Legionatus —the exa'legionate troopers like Shemeshea.
+She's already regaining strength, more than enough to walk again. This is pretty rare. Usually —with such an easy casualty remediation— I'd be immersed in gratefulness, this time something else is at the back of my mind.
 
-If only she could see my heart rate like I can see hers....<br>
-Prix: \*Breathing deep; seemingly deep in study checking her out of the trooper casualties\*<br>
-"Can I visit you sometime?"
+Shemeshea's faceplate goes from clear to flat grey matching the ground and sky; she attaches maga'suture buttons in several places on either side of the gash in her armor. Magautoriom fibers deploy from the buttons; the fibers grasp each other and tighten; the rift of tega'steel plate running up and down her chest and abdomen closes, resealing her defenses.
 
-Shemeshea \*nods and jogs of to return to duty\*
+Her heart rate has gone down more, but still slightly elevated.
+If only she could see my heart rate like I can see hers. Remember to breath....<br>
+Prix: "Can I visit you sometime?"
+
+Time and moments seemed to stretch, conspiring to make me wait as long as possible; no matter how quick she makes up her mind.
+
+Shemeshea: \*nods\*
+I can't remember the last time I wanted a 'yes' so bad.
+
+Prix: "Your clear for battle duty trooper, good luck"
+Shemeshea: "Thanks doc"
+
+As I sign off on her returning to duty; one of the dots stops blinking and turns from blue to green.
+
+She turns and jogs off in the direction of her assigned position, just like I will soon. The remaining blue dot turns green and the commander sets the combat stance to combat ready: patrol. Time to get to high ground. I feel guilty sometimes —using my position to find companionship—; if a person is in a desert, can you blame them for wanting to find a way to water? Maybe the squad has to wait a little longer before moving on...but hey, it gives my patient some more time to rest before returning to eventual-almost-certian-death, and who knows what we are marching into at this point. I seemed to remember, even in my short time in the legionate, a savant of war saying that "on occasion, more strategic value can be gained from waiting, then taking action"...or...maybe I don't remember.
+
+Out here —even with medics like her— death is never far. In fact —for someone like her, and where she started— death on the battle field under Legionatus command was almost certain; so while she could, like anyone else, she finds what comforts she can before that death comes.
+
+-------
