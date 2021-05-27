@@ -63,9 +63,9 @@ Uhhhghh, just breath...the nausea will pass...the war shock symptoms always do..
 
 \*Two of the green lights turned blue in the corner of her HUD indicating casualties\*
 
-Looks like I'm on the clock. Both injured callsigns are new, came in on the last reinforcement rotation. Powering up position translator, I see a good spot with rock cover. Close to one of the injuries; close my eyes, relax, it'll be quick, _BLAAPBANGannggang_. Few things are louder, or brighter than a position translation by a standard issue, exa'legionate, location projector.
+Looks like I'm on the clock. Both injured callsigns —Emyatta six, and Raetera eight— are new; came in on the last reinforcement rotation. Powering up position translator, I see a good spot with rock cover. Close to one of the injuries; close my eyes, relax, it'll be quick, _BLAAPBANGannggang_. Few things are louder, or brighter than a position translation by a standard issue, exa'legionate, location projector.
 
-Opening my eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Other casualty is getting taken care of, one less injured on the field.
+Opening my eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Raetera eight is getting taken care of, one less injured on the field.
 
 There's my injured trooper, under plenty of cover, starting vital and data download, starting medical scan, checking-in her injury.
 
@@ -108,7 +108,7 @@ Looks like I got most of the bug bits out, wash should dissolve the rest, mag oi
 Prix: "This will sting a bit at first, but should go numb right after"<br>
 Shemeshea: \*nods\*<br>
 
-Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. According the her gene-nexus data, she has cells which neutralize foreign acid....incredible.
+Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. According the her gene-nexus data, her body creates cells which can neutralize foreign acid. Her Sedra body is a piece of art, rendered for the life of a legionate.
 
 Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
 Shemeshea: "A flyer, with a talon"<br>
