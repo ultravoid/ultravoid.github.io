@@ -24,7 +24,7 @@ Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this spac
 
 Hemner said more but the intel was clear; command thinks this is a bug hunt, and so, lots of dead bugs, the only thing to expect beyond that, is the help from the 'extra' medical support; of course by 'extra' Hemner meant one support, and two rifle troopers. Some extra is better than no extra I guess.
 
-Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; as always he'll keep us here for several caldex (~ days), or until we have contact; be it bug or civilian. Wait is that? Those shadows don't look like friendly locals; they looks spiny and mean. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
+Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; as always he'll keep us here for several caldex (~ days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they looks spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
