@@ -16,7 +16,7 @@ _Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/med
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, other times in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) combing the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) combing the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
 
 When they had been told what to expect, —during pre-drop briefing on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
@@ -24,7 +24,7 @@ Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this spac
 
 Hemner said more but the intel was clear; command thinks this is a bug hunt, and so, lots of dead bugs, the only thing to expect beyond that, is the help from the 'extra' medical support; of course by 'extra' Hemner meant one support, and two rifle troopers. Some extra is better than no extra I guess.
 
-Coming up on five interdex (~15 hours) down here, Hemner will probably keep us down here until we have contact; be it bug or civilian. Wait is that? Those shadows don't look like friendly locals; they looks spiny and mean. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
+Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; as always he'll keep us here for several caldex (~ days), or until we have contact; be it bug or civilian. Wait is that? Those shadows don't look like friendly locals; they looks spiny and mean. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
