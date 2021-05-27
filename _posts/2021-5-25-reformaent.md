@@ -119,7 +119,7 @@ Shemeshea: "I'll try not to..."
 Prix: "Any questions?"<br>
 Shemeshea: \*shakes her head, her eyes staying on Prix's face\*
 
-Her heart rates are going down, vitals are sable, wound is reacting well. Almost time to say goodbye. Those dark eyes; black discs with iris rings that looked made from living dark amethyst; also still dilated; I think it takes more than the pain drugs to explain...oh shadt! How long was I staring at her eyes!?
+Her heart rates are going down, vitals are stable, wound is reacting well. Almost time to say goodbye. Those dark eyes; black discs with iris rings that looked made from living dark amethyst; also still dilated; I think it takes more than the pain drugs to explain...oh shadt! How long was I staring at her eyes!?
 
 Might as well say something, as long as shes still checked-in as an injury they had a private channel. Breath deep.
 
