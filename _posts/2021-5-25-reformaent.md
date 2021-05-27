@@ -16,7 +16,7 @@ _Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/med
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) combing the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half an adex (~14 hours) combing the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
 
 When they had been told what to expect, —during pre-drop briefing on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
@@ -35,7 +35,7 @@ Watch for a help request from the lead...looks like they've got it handled. The 
 
 Attack seems over.
 
-An amber symbol starts blinking in the upper HUD; the boss wants an casualty status.
+An amber symbol starts blinking in the upper HUD; the boss wants a casualty status.
 
 Prix: "Squad I see all green?"
 
@@ -47,7 +47,7 @@ Commander Ter Hemner should be pleased at our efficiency?<br>
 Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"<br>
 
- _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, and there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
+ _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
 
  Prix: "I'm getting charged"<br>
  Dixo: "CONCUSSION GRENADES"<br>
@@ -71,10 +71,10 @@ There's my injured trooper, under plenty of cover, starting vital and data downl
 
 \*Both dots start blinking in her HUD.\*
 
-Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; from mid abdomen, to mid chest; grazing a few bones; no organs damaged; no major blood vessels damaged. The cut must have bled hard; there is so much blood on her, and a really wide gash in her armor. Arrestor foam did its job —seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, med kit and wash cooker powered up.
+Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; from mid abdomen, to mid chest; grazing a few bones; no organs damaged; no major blood vessels damaged. The cut must have bled hard; there is so much blood on her, and a really wide gash in her armor. Arrestor foam did its job —seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, medi kit and wash cooker powered up.
 
 Prix: "Can you her me?"<br>
-Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes and a well angled hemegeniocx type face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
+Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes; a well angled hemegeniocx face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
 
 One good looking trooper...stay focused Prix...
 
@@ -92,10 +92,10 @@ Shemeshea "Sedra'hk'not"<br>
 
 Atmosphere has stabilized enough, accessing her suit, unlocking her armor. Looks like the query is finished; for her, dilated pupils are a pretty standard parasympathetic response. Interesting...
 
-Prix: "And your name and callsign?"<br>
+Prix: "Your name and callsign?"<br>
 Shemeshea: "Shemeshea Emyatta, callsign Emyatta six"<br>
 
-Prix: "alright I'm taking your armor and off and going to see how bad this is"<br>
+Prix: "alright I'm taking your armor off and going to see how bad this is"<br>
 Shemeshea "OK doc"<br>
 
 This is definitely were all the blood came from. Impressive physiology; this Sedra trooper is all taught, limber muscle; a born warrior...stay focused Prix. Standard medae'bot wash should do it, just have to calibrate it for her. Medae washes are cooking, just enough time to clean and prep the wound.
