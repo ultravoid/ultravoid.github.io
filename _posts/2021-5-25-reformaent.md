@@ -54,12 +54,12 @@ Hemner: "AIRBORNE INCOMING!"<br>
  _BOOOMM BOOOMM BOOOMM_<br>
 Ummff! Deploying shield, switching to carbine...shadt...Hemner's gonna kill me when he finds out I dropped my long range bolter...but those _BOOOMM BOOOMMM_ ajats! Concussion blasts!...<br>
  _BOOOMM BOOOMM_<br>
-Ummppff. More ground swarmers are coming, charging through their dead brethren doesn't seem smart.<br>
+Ummppff. More ground swarmers are coming, charging through their dead brethren; doesn't seem smart.<br>
  _BOOOMM BOOOMM BOOOMM_<br>
 
 Dixo: "All contacts terminated"<br>
 Hemner: "Squad Hettra you are all clear"<br>
-Ughh, breath deep...the nausea will pass...the war shock symptoms always do...<br>
+Uhhhghh, just breath...the nausea will pass...the war shock symptoms always do...<br>
 
 \*Two of the green lights turned blue in the corner of her HUD indicating casualties\*
 
