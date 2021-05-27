@@ -51,7 +51,7 @@ Hemner: "AIRBORNE INCOMING!"<br>
  Prix: "I'm getting charged"<br>
  Dixo: "CONCUSSION GRENADES"<br>
  _BOOOMM BOOOMM BOOOMM_<br>
-Ummff! Deploying shield, switching to carbine...shadt...Hemner's gonna kill me when he finds out I dropped my heavy bolter...but those _BOOOMM BOOOMMM_ ajats! Concussion blasts!...<br>
+Ummff! Deploying shield, switching to carbine...shadt...Hemner's gonna kill me when he finds out I dropped my long range bolter...but those _BOOOMM BOOOMMM_ ajats! Concussion blasts!...<br>
  _BOOOMM BOOOMM_<br>
 Ummppff. More ground swarmers are coming, charging through their dead brethren doesn't seem smart.<br>
  _BOOOMM BOOOMM BOOOMM_<br>
@@ -66,11 +66,11 @@ Looks like I'm on the clock. Both injured callsigns are new, came in on the last
 
 Opening my eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Other casualty is getting taken care of, one less injured on the field.
 
-There's the injured trooper, under plenty of cover, starting vital and data download, starting medical scan, checking-in her injury.
+There's my injured trooper, under plenty of cover, starting vital and data download, starting medical scan, checking-in her injury.
 
 \*Both dots start blinking in her HUD.\*
 
-Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; grazing a few bones; no organs damaged; no major blood vessels damaged; from mid abdomen, to mid chest. The cut must have bled hard; there is so much blood on her, and a really wide gash in her armor. Arrestor foam did its job —stopped all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, med kit and wash cooker powered up.
+Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; grazing a few bones; no organs damaged; no major blood vessels damaged; from mid abdomen, to mid chest. The cut must have bled hard; there is so much blood on her, and a really wide gash in her armor. Arrestor foam did its job —seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, med kit and wash cooker powered up.
 
 Prix: "Can you her me?"<br>
 Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes and a well angled hemegeniocx type face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
