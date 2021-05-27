@@ -75,12 +75,12 @@ Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tou
 Prix: "Can you her me?"<br>
 Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes and a well angled hemegeniocx type face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
 
-Wow one good looking trooper...stay focused Prix...
+One good looking trooper...stay focused Prix...
 
 Her mouth is moving, she's answering, ugh the translator is lagging...<br>
 Shemeshea: "Yes"<br>
 I could get used to that voice, translated or not...<br>
-Prix: "I'm going to remove your armor to get a better scan so I can fix you up"<br>
+Prix: "Once the local air has stabilized, I'm going to remove your armor to get a better scan so I can fix you up"<br>
 Shemeshea: "OK doc"<br>
 Prix: "Follow the light with your eyes"<br>
 
@@ -107,18 +107,18 @@ Looks like I got most of the bug bits out, wash should dissolve the rest, mag oi
 Prix: "This will sting a bit at first, but should go numb right after"<br>
 Shemeshea: \*nods\*<br>
 
-Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. She has cells which neutralized it before it did any damage...wow.
+Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. According the her gene-nexus data, she has cells which neutralize foreign acid....incredible.
 
 Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
 Shemeshea: "A flyer, with a talon"<br>
 
-"There was some acid, but your body neutralized it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
+"There was some acid, but your body was able to neutralized it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
 Shemeshea: "I'll try not to..."
 
 Prix: "Any questions?"<br>
 Shemeshea: \*shakes her head, her eyes staying on Prix's face\*
 
-Her heart rates are going down, vitals are sable, wound is reacting well. Almost time to say goodbye. Those dark eyes; almond discs with irises that looked made from living dark amethyst; also still dilated; I think it takes more than the pain drugs to explain...oh shadt! How long was I staring at her eyes!?
+Her heart rates are going down, vitals are sable, wound is reacting well. Almost time to say goodbye. Those dark eyes; black discs with iris rings that looked made from living dark amethyst; also still dilated; I think it takes more than the pain drugs to explain...oh shadt! How long was I staring at her eyes!?
 
 Might as well say something, as long as shes still checked-in as an injury they had a private channel. Breath deep.
 
@@ -134,9 +134,10 @@ She's taking my hand; already regaining strength, more than enough to walk again
 
 Her heart rate has gone down more, but still slightly elevated.<br>
 What would she think if she could see my heart rate like I can see hers? It's now or never, remember to breath....<br>
-Prix: "Can I visit you sometime?"<br>
+Prix: "Can I visit your bunk sometime?"<br>
 
-Time and moments seemed to stretch, conspiring to make me wait as long as possible —no matter how quick she makes up her mind.
+Why did that sound so awkward?
+Time and moments seemed to stretch, conspiring to make me wait as long as possible —no matter how long she took to make up her mind.
 
 Shemeshea: \*nods\*<br>
 I can't remember the last time I wanted a 'yes' so bad.<br>
