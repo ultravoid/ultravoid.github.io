@@ -31,7 +31,7 @@ Dixo: "copy"<br>
 Dixo: "contact ground swarmers"<br>
 _PFump-PFump-PFump-Crck-Crck-Crck BRRapp BRRapp_<br>
 
-Watch for a help request from the lead...looks like they've got it handled. The troopers are reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all that interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked...yet. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
+Watch for a help request from the lead...looks like they've got it handled. The troopers are reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all the interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked......._yet_. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
 
 Attack seems over.
 
@@ -39,7 +39,7 @@ An amber symbol starts blinking in the upper HUD; the boss wants a casualty stat
 
 Prix: "Squad I see all green?"
 
-Each trooper confirms through their own interface they have no injuries; as they do, green dots —one for all fourteen troopers— light up in the lower right corner of her HUD..
+Each trooper confirms —through their own interface— that they have no injuries; as they do, green dots —one for each of the fourteen troopers— light up in the lower right corner of her HUD..
 
 Prix: "Command we are all clear"
 
