@@ -108,12 +108,12 @@ Looks like I got most of the bug bits out, wash should dissolve the rest, mag oi
 Prix: "This will sting a bit at first, but should go numb right after"<br>
 Shemeshea: \*nods\*<br>
 
-Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. According the her gene-nexus data, her body creates cells which can neutralize foreign acid. Her Sedra body is a piece of art, rendered for the life of a legionate.
+Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. Applying the medae wash. According the her gene-nexus data, her body creates cells which can neutralize foreign acid —Her body is a piece of art, commissioned and rendered for the life of a legionate.
 
 Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
 Shemeshea: "A flyer, with a talon"<br>
 
-"There was some acid, but your body was able to neutralized it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
+"There was some acid, but your body neutralized it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
 Shemeshea: "I'll try not to..."
 
 Prix: "Any questions?"<br>
