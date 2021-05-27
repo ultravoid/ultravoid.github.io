@@ -73,7 +73,7 @@ There's my injured trooper, under plenty of cover, starting vital and data downl
 
 Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; from mid abdomen, to mid chest; grazing a few bones; no organs damaged; no major blood vessels damaged. The cut must have bled hard; there is so much blood on her, and a really wide gash in her armor. Arrestor foam did its job —seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, medi kit and wash cooker powered up.
 
-Prix: "Can you her me?"<br>
+Prix: "Can you hear me?"<br>
 Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes; a well angled hemegeniocx face and head —two eyes, above a protruding, angular nasal passage, all above a singular mouth.
 
 One good looking trooper...stay focused Prix...
