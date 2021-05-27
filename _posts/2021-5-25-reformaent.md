@@ -11,11 +11,12 @@ author: "ultravoid"
 **System: Reg'tiak**<br>
 **Planet Vit'os**
 
-_northern polar area_
+_northern polar mountains_
+_Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/medic)._
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. Being a medic is much harder on bug hunts. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, other times in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) and no sign of militia or civilians, don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, other times in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) and no sign of militia or civilians, don't think anyone expects to find any either.
 
 They had been told what to expect, during pre-drop briefing  —on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
