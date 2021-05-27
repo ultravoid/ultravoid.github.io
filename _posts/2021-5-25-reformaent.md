@@ -23,7 +23,7 @@ Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this spac
 
 Hemner said more but the intel was clear; command thinks this is a bug hunt, and so, lots of dead bugs, the only thing to expect beyond that, is the help from the 'extra' medical support; of course by 'extra' Hemner meant one support, and two rifle troopers. Some extra is better than no extra I guess.
 
-Coming up on five interdex (~15 hours) down here, how long are they planning on keeping us here? Wait is that? Those shadows look spiny and mean. Definitely not friendly locals. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
+Coming up on five interdex (~15 hours) down here, how long are they planning on keeping us here? Wait is that? Those shadows don't look like friendly locals; they looks spiny and mean. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
@@ -46,7 +46,7 @@ Commander Ter Hemner should be pleased at our efficiency?<br>
 Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"<br>
 
- _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, and there's the rest, do I even need to use the scope? _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
+ _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, and there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
 
  Prix: "I'm getting charged"<br>
  Dixo: "CONCUSSION GRENADES"<br>
