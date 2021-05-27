@@ -15,7 +15,7 @@ _northern polar area_
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. Being a medic is much harder on bug hunts. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, other times in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature on this world, used the same pallet for the black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) and no sign of militia or civilians, don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. Being a medic is much harder on bug hunts. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, other times in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half and adex (~14 hours) and no sign of militia or civilians, don't think anyone expects to find any either.
 
 During pre-drop briefing  —on the Legionatus drop ship— commander Ter Hemner presented the intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
@@ -23,7 +23,7 @@ Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this spac
 
 Hemner said more but the intel was clear; word is, command thinks this is a bug hunt, and so, lots of dead bugs, the only thing to expect beyond that, is the help from the 'extra' medical support; of course by 'extra' Hemner meant one support, and two rifle troopers. Some extra is better than no extra I guess.
 
-Coming up on five interdex (~15 hours) down here, how long are they keeping us here...wait is that? Something spiny and mean is making those shadows ahead. Definitely not friendly locals. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
+Coming up on five interdex (~15 hours) down here, how long are they planning on keeping us here? Wait is that? Those shadows look spiny and mean. Definitely not friendly locals. It is easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
@@ -46,7 +46,7 @@ Commander Ter Hemner should be pleased at our efficiency?<br>
 Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"<br>
 
- _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, and ther's the rest, do I even need to use the scope? _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
+ _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, and there's the rest, do I even need to use the scope? _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
 
  Prix: "I'm getting charged"<br>
  Dixo: "CONCUSSION GRENADES"<br>
