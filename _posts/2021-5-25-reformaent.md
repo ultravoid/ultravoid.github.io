@@ -16,22 +16,28 @@ _Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/med
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. —On a bug drop— being on overwatch is mostly the same as any other; being a medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half an adex (~14 hours) combing the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. On a bug hunt/drop, being on overwatch is mostly the same as any other; being a medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; it matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —at least on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half an adex (~14 hours) scouring the area of the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
 
-When they had been told what to expect, —during pre-drop briefing on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
+When we had been told what to expect, —during pre-drop briefing on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
-Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this space as vetaxa's! Are believed to be swarming! They are capable of jumps in excess of 40 stardex! (~40LY) They are VERY mean and dangerous! They are believed to be responsible for unexplained disappearances! In systems: Matcha'tiak, Hol-dreda, and Eli'par! We are to drop! We are to conduct search and rescue! For Vit'os local militia! The last distress transmission was post naught fiiive ritodex! (~ 5 days) " \*a few troopers are unable to hide their murmuring thoughts\* _no chance they are still alive_ was the gist "QUIET AND LISTEN. UP. TROOPERS!!....there may still be survivors! I am authorizing extra gunners! And medical! Per squad!"
+Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this space as vetaxa's! Are believed to be swarming! They are capable of jumps in excess of 40 stardex! (~40LY) They are VERY mean and dangerous! They are believed to be responsible for unexplained disappearances! In systems: Matcha'tiak, Hol-dreda, and Eli'par! We are to drop! We are to conduct search and rescue! For Vit'os local militia! The last distress transmission was post naught fiiive ritodex! (~ 5 days ago) "
 
-Hemner said more but the intel was clear; command thinks this is a bug hunt, and so, lots of dead bugs, the only thing to expect beyond that, is the help from the 'extra' medical support; of course by 'extra' Hemner meant one support, and two rifle troopers. Some extra is better than no extra I guess.
+\*a few troopers are unable to hide their murmuring thoughts\*
 
-Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; as always he'll keep us here for several caldex (~ days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they looks spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
+_no chance they are still alive_ was the gist.
+
+"QUIET AND LISTEN. UP. TROOPERS!!....there may still be survivors! I am authorizing extra gunners! And medical! Per squad! Keep your scanners on the horizon for initial intel! Look out for HIVE MOTHERS!! DO NOT ENGAGE IF ENCOUNTERED!! Reemember, the exa'legionate coollects intel! And seeks exfil! Heeaavy hitters! Will be brought in to deal with..."
+
+Hemner said more but the intel was clear; command thinks bugs have either eaten, or captured dozens of citizens. We are search for them and eleminate all hostiles on the planet surface while the remaining citizens are evacuated. A bug hunt, so, lots of dead bugs, and like any good exa'legionate, keep our eyes on the horizon, for 'intial intel'.
+
+Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; he's kept us boots on the ground for a long time before, several adex (~days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they look spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
 Dixo: "contact ground swarmers"<br>
 _PFump-PFump-PFump-Crck-Crck-Crck BRRapp BRRapp_<br>
 
-Watch for a help request from the lead...looks like they've got it handled. The troopers are reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all the interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked......._yet_. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
+Watch for a help request from the lead...looks like they've got it handled. Their really gunning them down, they're reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all the interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked......._yet_. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
 
 Attack seems over.
 
@@ -47,9 +53,11 @@ Commander Ter Hemner should be pleased at our efficiency?<br>
 Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"<br>
 
- _CRAAACKackkack_ Oh FUJUT where are THEY? There's one falling, dead, there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
+ _CRAAACKackkack_ \*red icons in her HUD indicate Egor twelve —one of the other two support troopers is engaging/engaged\*
 
- Prix: "I'm getting charged"<br>
+ Oh FUJUT!! where are THEY? There's one falling, dead, there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
+
+ Prix: "I'M GETTING CHARGED"<br>
  Dixo: "CONCUSSION GRENADES"<br>
  _BOOOMM BOOOMM BOOOMM_<br>
 Ummff! Deploying shield, switching to carbine...shadt...Hemner's gonna kill me when he finds out I dropped my long range bolter...but those _BOOOMM BOOOMMM_ ajats! Concussion blasts!...<br>
