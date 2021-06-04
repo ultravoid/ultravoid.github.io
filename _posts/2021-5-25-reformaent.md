@@ -28,7 +28,7 @@ _no chance they are still alive_ was the gist.
 
 "QUIET AND LISTEN. UP. TROOPERS!!....there may still be survivors! I am authorizing extra gunners! And medical! Per squad! Keep your scanners on the horizon for initial intel! Look out for HIVE MOTHERS!! DO NOT ENGAGE IF ENCOUNTERED!! Reemember, the exa'legionate coollects intel! And seeks exfil! Heeaavy hitters! Will be brought in to deal with..."
 
-Hemner said more but the intel was clear; command thinks bugs have either eaten, or captured dozens of citizens. We are search for them and eleminate all hostiles on the planet surface while the remaining citizens are evacuated. A bug hunt, so, lots of dead bugs, and like any good exa'legionate, keep our eyes on the horizon, for 'intial intel'.
+Hemner said more but the intel was clear; command thinks bugs have either eaten, or captured dozens of citizens. We are to search for them and eleminate all hostiles on the planet surface, while the remaining citizens are evacuated. A bug hunt, so, lots of dead bugs, and like any good exa'legionate, keep our eyes on the horizon, for 'intial intel' AKA a big and bad hive queen.
 
 Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; he's kept us boots on the ground for a long time before, several adex (~days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they look spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
