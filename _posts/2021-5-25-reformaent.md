@@ -53,7 +53,7 @@ Commander Ter Hemner should be pleased at our efficiency?<br>
 Not by his tone....<br>
 Hemner: "AIRBORNE INCOMING!"<br>
 
- _CRAAACKackkack_ \*red icons in her HUD indicate Egor twelve —one of the other two support troopers is engaging/engaged\*
+ _CRAAACKackkack_ \*a red icon in her HUD lights, indicating Egor twelve —one of the other two support troopers— is engaging/engaged\*
 
  Oh FUJUT!! where are THEY? There's one falling, dead, there's the rest, do I even need to use the scope? Got one lined up; gentle squeeze on the trigger; _CRAAACKackkack_ "one bolt, one nerve stem", these bugs are fast, guess that's what all the wings are for. FujuT! Ajats!  _CRAAACKackkack_ That one was charging me I think.  _CRAAACKackkack_ That one definitely was; we seem to have some mutual feelings. _CRAAACKackkack_ do I need to activate?...yep _CRAAACKackkack_ Activating distress signal.
 
