@@ -116,7 +116,7 @@ Looks like I got most of the bug bits out, wash should dissolve the rest, mag oi
 Prix: "This will sting a bit at first, but should go numb right after"<br>
 Shemeshea: \*nods\*<br>
 
-Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. Applying the medae wash. According the her gene-nexus data, her body creates cells which can neutralize foreign acid —Her body is a piece of art, commissioned and rendered for the life of a legionate.
+Sting? Probably feels cool after a laceration with...ohh there was some acid. Definitely should be cooler. Applying the medae wash. According the her gene-nexus data, her body creates cells which can neutralize foreign acid. She is a piece of art, commissioned and rendered for the life of a legionate, not unlike me.
 
 Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
 Shemeshea: "A flyer, with a talon"<br>
