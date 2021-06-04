@@ -98,7 +98,7 @@ Her pupils are dilated, not sure what that means, making a physio query; should 
 Prix: "Whats you GN-type?"<br>
 Shemeshea "Sedra'hk'not"<br>
 
-Atmosphere has stabilized enough, accessing her suit, unlocking her armor. Looks like the query is finished; for her, dilated pupils are a pretty standard parasympathetic response. Interesting...
+Atmosphere has stabilized enough, ambient temp has come down, accessing her suit, unlocking her armor. Looks like the query is finished; for her, dilated pupils are a pretty standard parasympathetic response. Interesting...
 
 Prix: "Your name and callsign?"<br>
 Shemeshea: "Shemeshea Emyatta, callsign Emyatta six"<br>
