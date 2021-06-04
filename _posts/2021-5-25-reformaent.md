@@ -121,7 +121,7 @@ Sting? Probably feels cool after a laceration with...ohh there was some acid. De
 Prix: "Your wound was a deep laceration, do you know what hit you?"<br>
 Shemeshea: "A flyer, with a talon"<br>
 
-"There was some acid, but your body neutralized it. You are healing now and should be in fighting shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
+"There was some acid, but your body neutralized it. I've applied a medae wash that is rebuilding your tissue. You should be in gunning shape within a setadex (~ 16 minutes) and back to full strength within a cal cycle (~ 1 day). Try to avoid operating heavy weapons until them"<br>
 Shemeshea: "I'll try not to..."
 
 Prix: "Any questions?"<br>
