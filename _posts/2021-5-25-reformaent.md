@@ -16,28 +16,28 @@ _Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/med
 
 It was a bug hunt —a primal bug hunt; that's all we ever get sent on; that's all us —the expeditionary, the _exa'legionate_.
 
-I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. On a bug hunt/drop, being on overwatch is mostly the same as any other; being a medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; it matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. Sometimes in lone strikes, sometimes in rolling volleys; the bolts extend the sharp angels of the mountain terrain; Nature —at least on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half an adex (~14 hours) scouring the area of the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
+I hate bug hunts —primal or otherwise—, hive swarmers feel no pain, and dispense it without mercy. On a bug drop, being on overwatch is mostly the same as any other; being a medic is much more difficult. Why are citizens living on this shadt hole of a world anyway? Haven't seen any greenery, the weather is bad; it matches the landscape. Those clouds don't look like rain clouds; too hot for water here; lots of lightning; blue, yellow, and white. The bolts extend the sharp angels of the mountain terrain; sometimes in lone strikes, sometimes in rolling volleys. Nature —at least on this world— used the same pallet for its black and grey clouds, as it did for the grey rocks and the shadows they cast. We've been in these mountains for half an caldex (~14 hours) scouring the area of the last known position of a lost militia. Haven't seen a trace. Don't think anyone expects to find any either.
 
 When we had been told what to expect, —during pre-drop briefing on the Legionatus drop ship. Commander Ter Hemner had presented the mission intel with his usual faux enthusiasm, and standard extra pauses between phrases he deemed important.
 
-Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this space as vetaxa's! Are believed to be swarming! They are capable of jumps in excess of 40 stardex! (~40LY) They are VERY mean and dangerous! They are believed to be responsible for unexplained disappearances! In systems: Matcha'tiak, Hol-dreda, and Eli'par! We are to drop! We are to conduct search and rescue! For Vit'os local militia! The last distress transmission was post naught fiiive ritodex! (~ 5 days ago) "
+Hemner: "...LISTEN UP! For extraa intel! Cross-void swarmers! Known in this space as vetaxa's! Are believed to be swarming! They are capable of jumps in excess of 40 stardex! (~40LY) They are VERY mean and dangerous! They are believed to be responsible for unexplained disappearances! In systems: Matcha'tiak, Hol-dreda, and Eli'par! We are to drop! We are to conduct search and rescue! For Vit'os local militia! The last distress transmission was post fiiive cal cycles! (~ 5 days ago)"
 
 \*a few troopers are unable to hide their murmuring thoughts\*
 
 _no chance they are still alive_ was the gist.
 
-"QUIET AND LISTEN. UP. TROOPERS!!....there may still be survivors! I am authorizing extra gunners! And medical! Per squad! Keep your scanners on the horizon for initial intel! Look out for HIVE MOTHERS!! DO NOT ENGAGE IF ENCOUNTERED!! Reemember, the exa'legionate coollects intel! And seeks exfil! Heeaavy hitters! Will be brought in to deal with..."
+"QUIET AND LISTEN. UP. TROOPERS!!....there may still be survivors! I am authorizing extra gunners! And medical! Per squad! Keep your scanners on the horizon for initial intel! Look out for HIVE MOTHERS!! DO NOT ENGAGE IF ENCOUNTERED!! Reemember, the exa'legionate coollects intel! And seeks exfil! IF A QUEEN OR BRAIN IS FOUND! Heeaavy hitters! Will be brought in to deal with..."
 
-Hemner said more but the intel was clear; command thinks bugs have either eaten, or captured dozens of citizens. We are to search for them and eleminate all hostiles on the planet surface, while the remaining citizens are evacuated. A bug hunt, so, lots of dead bugs, and like any good exa'legionate, keep our eyes on the horizon, for 'intial intel' AKA a big and bad hive queen.
+Hemner said more but the intel was clear; command thinks bugs have either eaten, or captured dozens of citizens. We are to search for them and eleminate all hostiles on the planet surface, while the remaining citizens are evacuated. A bug hunt, so, lots of dead bugs, and like any good exa'legionate, keep our eyes on the horizon, for 'intial intel'; on this drop that would be a sighting of queen or brain.
 
-Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; he's kept us boots on the ground for a long time before, several adex (~days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they look spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
+Coming up on five interdex (~15 hours) down here; long way to go until Hemner pulls us out; he's kept us boots on the ground for a long time before, several caldex (~days), or until we have contact; be it bug or civilia.... Wait. What is that? Those shadows don't look like locals; they look spiny and mean. It _is_ easy to tell who the enemy is on bug hunts. Raising trooper lead.
 
 Prix: "Dixo two, movement ahead"<br>
 Dixo: "copy"<br>
 Dixo: "contact ground swarmers"<br>
 _PFump-PFump-PFump-Crck-Crck-Crck BRRapp BRRapp_<br>
 
-Watch for a help request from the lead...looks like they've got it handled. Their really gunning them down, they're reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all the interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked......._yet_. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
+Watch for a help request from the lead...looks like they've got it handled. They're really gunning them down, reporting: 20..21..22 dead swarmers, dont even need grenades, just UHV* exa'bolts. Gotta remember to keep an eye on the rocks above...I can't see anything with all the interference, are those clouds just ash?. 40....45... guess they aren't going to let me splat any. No ones gotten nicked......._yet_. 50...58...60. _PFump-mpp-mp BRapp-app-ap_ \*guns silent\*
 
 Attack seems over.
 
@@ -69,20 +69,20 @@ Dixo: "All contacts terminated"<br>
 Hemner: "Squad Hettra you are all clear"<br>
 Uhhhghh, just breath...the nausea will pass...the war shock symptoms always do...<br>
 
-\*Two of the green lights turned blue in the corner of her HUD indicating casualties\*
+\*Two of the green lights turned blue in the corner of her HUD indicating casualties, another light indicates the commander has set the squad stance to defensive\*
 
-Looks like I'm on the clock. Both injured callsigns —Emyatta six, and Raetera eight— are new; came in on the last reinforcement rotation. Powering up position translator, I see a good spot with rock cover. Close to one of the injuries; close my eyes, relax, it'll be quick, _BLAAPBANGannggang_. Few things are louder, or brighter than a position translation by a standard issue, exa'legionate, location projector.
+Looks like I'm on the clock. Both injured callsigns —Emyatta six, and Raetera eight— are part of the extra gunners we got, haven't even met them yet. Powering up position translator, I see a good spot with rock cover. Close to one of the injuries; close my eyes, relax, it'll be quick, _BLAAPBANGannggang_. So loud, and bright. Few things put a trooper through a more disorienting experience than a position translation by a standard issue, exa'legionate, location projector.
 
-Opening my eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Raetera eight is getting taken care of, one less injured on the field.
+Opening eyes; stowing my carbine; some more nausea —different than before; also something I've experienced a thousand times. Wait till I can feel the ground under my feet...ok heading to the injured trooper \*one of the blue dots in her HUD starts blinking\*; Raetera eight is getting taken care of, one less injured on the field.
 
 There's my injured trooper, under plenty of cover, starting vital and data download, starting medical scan, checking-in her injury.
 
 \*Both dots start blinking in her HUD.\*
 
-Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; from mid abdomen, to mid chest; grazing a few bones; no organs damaged; no major blood vessels damaged. There is so much blood on her, the cut must have bled hard. Whatever hit her, put a really wide gash in her —and her armor. Arrestor foam did its job; seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, medi kit and wash cooker powered up.
+Info downloaded: Semeshea Emyatta, callsign Emyatta six; Sedra'hk'not*, —a tough and resilient gene-nexus— has sustained a deep laceration; from mid abdomen, to mid chest; grazing a few bones; no organs damaged; no major blood vessels damaged. There is so much blood on her, the cut must have bled hard. Whatever hit her, put a really wide gash in her —and her armor. Arrestor foam did its job; seal the wound from the atmosphere, stop all the bleeding. She has two hearts, both beating at an elevated rate; she seems to be in some pain, not enough for an acid wound though, no sign of poisoning. Alright, shield detached, firing mount stakes — _pmp_ —, activating atmospheric lock out field, medixae kit and wash cooker powered up.
 
 Prix: "Can you hear me?"<br>
-Her face mask goes from opaque to clear, revealing a green smooth skinned face with two purple and black eyes; a well angled hemegeniocx face and head: two eyes, two ears, above a protruding, angular nasal passage, all above a singular mouth.
+Her face mask goes from opaque to clear, revealing a green, lightly dotted, smooth skinned face with two purple and black eyes; a well angled hemegeniocx face and head: two eyes, two ears, above a protruding, angular nasal passage, all above a singular mouth. Her dots were a purple like her eyes, and made symmetrical, semi circle patterns on her face and smooth head.
 
 One good looking trooper...stay focused Prix...
 
@@ -106,7 +106,7 @@ Shemeshea: "Shemeshea Emyatta, callsign Emyatta six"<br>
 Prix: "alright I'm taking your armor off and going to see how bad this is"<br>
 Shemeshea "OK doc"<br>
 
-This is definitely were all the blood came from. Impressive physiology; this Sedra trooper is all taught, limber muscle; a born warrior...stay focused Prix. Standard medae'bot wash should do it, just have to calibrate it for her. Medae washes are cooking, just enough time to clean and prep the wound.
+This is definitely were all the blood came from. Impressive physiology; this Sedra trooper is all taught, limber muscle; a born warrior, those spot patterns are...all over...stay focused Prix. Standard medae'bot wash should do it, just have to calibrate it for her. Medae washes are cooking, just enough time to clean and prep the wound.
 
 Prix: "I'll have something for your pain soon, just have to synthesize it"<br>
 Shemeshea: \*nods\*<br>
@@ -142,7 +142,9 @@ Prix: "Can you get up?"
 She's taking my hand; already regaining strength, more than enough to walk again. A rare, easy remediation
 
 Her heart rate has gone down more, but still slightly elevated.<br>
-What would she think if she could see my heart rate like I can see hers? It's now or never, remember to breath....<br>
+What would she think if she could see my heart rate like I can see hers?
+
+It's now or never, remember to breath....<br>
 Prix: "Can I visit your bunk sometime?"<br>
 
 Why did that sound so awkward?
@@ -154,7 +156,7 @@ I can't remember the last time I wanted a 'yes' so bad.<br>
 Prix: "Your clear for battle duty trooper, good luck"<br>
 Shemeshea: "Thanks doc"<br>
 
-As I sign off on her returning to duty; one of the dots stops blinking and turns from blue to green.
+As I sign off on her returning to duty, her dot stops blinking and turns from blue to green.
 
 Shemeshea's faceplate goes from clear to flat grey, matching the ground and sky; she attaches maga'suture buttons in several places on either side of the gash in her armor. Magautoriom fibers deploy from the buttons; the fibers grasp each other and tighten; the rift of tega'steel plate running up and down her chest and abdomen closes.
 
