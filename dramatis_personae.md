@@ -47,7 +47,7 @@ _"Vast are the stars; all belong to the first born; chosen of Coden —god-of-al
     - Holy Emperor _Diatas_ of the Hyperg'enot, High lord of the Rexus dynast
 - Oroto Rexus (Dre'Cladeshem) "Emperors are not forged not by blood"
     - High Lord Patriarch of the Rexus dynast, ArchKnight of Star Council
-- Demos Rexus (Dre'Claseshem)
+- Daemos Rexus (Dre'Claseshem)
     - High Lord Prince of the Hyperg'enot, son of Haego Rexus, Lord General of the Star Lion Knights, High commander of the Hyperg'enot twelfth army.
 
 
