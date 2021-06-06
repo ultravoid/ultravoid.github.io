@@ -9,7 +9,7 @@ author: "ultravoid"
 **Galaxy: Gemi'holon**<br>
 **Sector: Emhetra**<br>
 **System: Reg'tiak**<br>
-**Planet Vit'os**
+**Planet: Vit'os**
 
 _Northern polar mountains_<br>
 _Pirx'vero Botha, exa'legionate trooper, long range infantry support (sniper/medic)_
