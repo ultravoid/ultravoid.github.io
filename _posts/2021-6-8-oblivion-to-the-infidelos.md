@@ -16,25 +16,25 @@ _Daemos Rexus*_
 
 How long did it take these people to build their towers? Fine works of stone and iron. Taller than mountains.<br>
 Only generations of blood and will can raise such things; the blood of ancestors, spent to give a birth right to their descendants.<br>
-And now I come —the Razer Prince*— to burn that which they have forfeited, and bring an end to these peoples legends and dreams.
+And now I come —the Razer Prince*— to burn that which they have forfeited, and bring an end to their legends and dreams.
 
 In the distance, siege artillery shells, strike a shield that has stood for a million zera'ton (~ 500,000 years). _Bom. Bom. Bom._ Every impact lighting up the protective dome and the city towers beneath with angry branching sparks that split and crawl into the night.<br>
 
-Each shell, brings this city closer to its destiny, a fate these arrogant _Ekta'ra_ sealed themselves, when they defied the my father —the Emperor Diatas. _Bom. Bom. Bom._ The vengeance of my Lion Knights will be brutal, as is fitting for these Ekta'ra who dishonor us with their insolence. My father does not like repeating himself, in his wisdom, mercy leads to repetition.
+Each shell, brings this city closer to its destiny, a fate these arrogant _Ekta'ra_ sealed themselves, long ago, when they defied the my father —the Emperor Diatas. _Bom. Bom. Bom._ The vengeance of my Lion Knights will be brutal, as is fitting for those who dishonor us with such insolence. My father does not like repeating himself, in his wisdom, mercy leads to repetition.
 
 _Bom. Bom. Bom._
 
-The dynast aide, Lotax'vet —the grey— speaks, his translated voice electronic and flat to the prince's ears. "Lord Prince General, the city shields fall." As he foretells, a blinding flash encompasses the city; blue-green arcs of energy snap into the air and ground. The sky above the city becomes an iridescent dome which then vanishes with a loud bang.
+Lotax'vet —the grey— speaks, his translated voice electronic and flat to the prince's ears. "Lord Prince General, the city shields fall." As he foretells, a blinding flash encompasses the city; blue-green arcs of energy snap into the air and ground. The sky above the city becomes an iridescent dome which then vanishes with a loud bang.
 
 _SNNCRAAACKSHPOPoppop_
 
-Lotax turns slightly to face his master, his metallic form glinting from beneath his hooded robe. "Only the garrison defends the city now my Prince." he said.<br>
+Lotax turns slightly to face his master, his metallic form glinting from beneath his hooded robe and said. "Only the garrison defends the city now my Prince."<br>
 "The garrison will fight to the last." It will be a _beautiful_, bloody slaughter...<br>
 "They will my lord. Your Star-Lions* will accommodate their courage. Shall the army continue as planned my Lord Prince?"<br>
-"Yes...tell the arch'battalions* to cease bombardment. I want every nook and escape tunnel intact so that the razka* hunters can flush out _all_ the infidelos* vermin."<br>
+"Yes...tell the arch'battalions* to cease bombardment. I want every alley and escape tunnel intact, so the razka* hunters can flush out _all_ the infidelos* vermin."<br>
 "As you wish my lord" Doors swosh open as Lotax exits to disseminate his orders. Waiting acolyte-adjutants* stand still and silent beyond in the adjutant enclave.<br>
 
-The 'eternal' shields fell within a dunestar (~2 weeks), the Lord Generals will not give Lotax problems carrying out my plan. Ladros, Uthmar, Vi'kete, and the rest of the Lord _argent'generals*_ didn't think the shields would fall that quickly, that the Ekta'ra would have time to escape. They were right. Until my little mouse that is. If not for her actions, the shields would still stand. I have yet to decided if I should spare her...
+The 'eternal' shields fell within a dunestar (~2 weeks), the Lord Generals will not give Lotax problems carrying out my plan. Ladros, Uthmar, Vi'kete, and the rest of the _argent'generals*_ didn't think the shields would fall that quickly, that the Ekta'ra would have time for some to flee. They were right. Until my little mouse that is. If not for her actions, the shields would still stand. I have yet to decided if I should spare her...
 
 Lotax returns from the adjutant enclave were he made the Lord Prince's will known, the adjutants now in great activity beyond the enclave doors. "All Generals are affirming your orders Lord Prince" he said.
 
