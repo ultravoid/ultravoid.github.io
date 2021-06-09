@@ -34,7 +34,7 @@ Lotax turns slightly to face his master, his metallic form glinting from beneath
 "Yes...tell the arch'battalions* to cease bombardment. I want every alley and escape tunnel intact, so the razka* hunters can flush out _all_ the infidelos* vermin."<br>
 "As you wish my lord" Doors swosh open as Lotax exits to disseminate his orders. Waiting acolyte-adjutants* stand still and silent beyond in the adjutant enclave.<br>
 
-The 'eternal' shields fell within a dunestar (~2 weeks), the Lord Generals will not give Lotax problems carrying out my plan. Ladros, Uthmar, Vi'kete, and the rest of the _argent'generals*_ didn't think the shields would fall that quickly, that the Ekta'ra would have time for some to flee. They were right. Until my little mouse that is. If not for her actions, the shields would still stand. I have yet to decided if I should spare her...
+The 'eternal' shields fell within a dunestar (~2 weeks), the Lord Generals will not give Lotax problems carrying out my plan. Ladros, Uthmar, Vi'kete, and the rest of the _argent'generals*_ didn't think the shields would fall so quickly, that the Ekta'ra would have time for some to flee. They were right. Until my little mouse that is. If not for her actions, the shields would still stand. I have yet to decided if I should spare her...
 
 Lotax returns from the adjutant enclave were he made the Lord Prince's will known, the adjutants now in great activity beyond the enclave doors. "All Generals are affirming your orders Lord Prince" he said.
 
@@ -46,7 +46,7 @@ Vanix works the consoles in front of her —with her four arms— opening audio 
 Such a good pet, and such a good investment —those extra arms. It is always a thrill to project ones voice to so many champions. Remember what father always says about these times. They fight for blood-honor.<br>
 "Glorious Knights!" The rhythmic pounding of god-hammer gauntlets, war-lances, and his own voice —echoing off of the battlements and the land— fill the command enclave.<br>
 "I CAN HEAR YOU KNIGHTS" The pounding gets louder. The monstrous crashes of the knight's twenty eight bestere (12 meter) long war-lances against their god-hammer gauntlets, was deafening.<br>
-"These Ekta'ra have no faith in the Diatas!" The din of the war-lances drowns out the chants from the army. Instead the arch'battalions and glorious infantry make themselves heard with bronze and brass seige horns. From the army ranks, menacing tones growl and spit while mixing with the knight's crashing of steel.<br>
+"These Ekta'ra have no faith in the Diatas!" The din of the war-lances drowns out the chants from the army. Instead the arch'battalions and glorious infantry make themselves heard with bronze and brass siege horns. From the army ranks, menacing tones growl and spit while mixing with the knight's crashing of steel.<br>
 "They are ungrateful for the gifts they have on this world! They have rejected my fathers generosity! They dishonor us, by refusing to surrender what is ours!" Shells no longer fall on the city, but the din echoing off the walls alone seems to threaten to flatten the city.<br>
 "Their unbreakable shield is broken, their garrison awaits SLAUGHTER" _Hydaaa Hydaaa Hydaaa_ _Rexus Revmet Rexus Revmet_ Amplified chants for glory of the Hyperg'enot, begin to mix with the pounding god-hammers and blaring siege horns.<br>
 
@@ -54,7 +54,7 @@ Such a good pet, and such a good investment —those extra arms. It is always a 
 
 _Bom Bom Bom Bom Bom Bom bom_
 
-The battalion's shells land true, and an entire let'con (~2 mile) stretch of ancient wall, blossoms into grey dusty fireballs. As the dust clears it reveals shining buildings of glass and steel beyond.
+The battalion's shells land true, and an entire let'con (~2 mile) stretch of ancient wall, blossoms into grey dusty fireballs. As the dust clears it reveals blacked-out buildings of pristine glass and steel beyond.
 
 "I Lord Princes Daemos Rexus decree that the Ekta'ra are shaka'infidelos*. Storm this capital city! Crush their warriors, and send them to their gods of courage! All Ekta'ra; be they adult, infirm, child, or infant! Put them to flame and blade! _Tear_ into them! Until they are but meat for dogs! Wreath them in flame until their bones are _ash_! Give them death! Give them the _freedom_ they so desire! When you are done my Knights, whatever is left can beg for slavery or death! Put this city _Pezemtpa_ to righteous fire! May its name never again be spoken! Hyperg'enot eternal legion! Advance!" Even after Vanix cut the feed, the war cries of the eternal legion still filled the command enclave, only fading with distance as they advanced on the doomed city.
 
