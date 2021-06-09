@@ -46,7 +46,7 @@ Such a good pet, and such a good investment —those extra arms. It is always a 
 "Glorious Knights!" The rhythmic pounding of god-hammer gauntlets, war-lances, and his own voice —echoing off of the battlements and the land— fill the command enclave.<br>
 "I CAN HEAR YOU KNIGHTS" The pounding gets louder. The monstrous crashes of the knight's twenty eight bestere (12 meter) long war-lances against their god-hammer gauntlets, was deafening.<br>
 "These Ekta'ra have no faith in the Diatas!" The din of the war-lances drowns out the chants from the army. The arch'battalions and glorious infantry instead make themselves heard, with bronze and brass war horns, which growled and spit menacing tones to mix with the knight's crashing of steel.<br>
-"They are ungrateful for the gifts they have on this world, they have rejected my fathers generosity, they dishonor us, by refusing to surrender what is ours." Shells no longer fall on the city, but the din echoing off the walls alone seems to threaten to flatten the city.<br>
+"They are ungrateful for the gifts they have on this world! They have rejected my fathers generosity! They dishonor us, by refusing to surrender what is ours!" Shells no longer fall on the city, but the din echoing off the walls alone seems to threaten to flatten the city.<br>
 "Their unbreakable shield is broken, their garrison awaits SLAUGHTER" _Hydaaa Hydaaa Hydaaa_ _Rexus Revmet Rexus Revmet_ Amplified chants for glory of the Hyperg'enot, begin to mix with the pounding god-hammers and blaring siege horns.<br>
 
 "Arch'battalions! Bring down that wall!"
