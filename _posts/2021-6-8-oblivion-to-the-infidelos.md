@@ -61,7 +61,7 @@ They could have given it up piece meal. Instead we will burn everything until th
 
 "The Lion-Knights are engaging the city garrison. The infidelos fall quickly. They fall to the last." Intoned Lotax.
 
-I want to see them. I want to watch as the legacy of this place dies. "Ready my guard and thunder-talon. I want to be there when the last of them die."<br>
+I want to see them. I want to watch as the legacy of this place dies. "Ready my guard and thunder-talon. I want to be there as these people die."<br>
 "By your will, my Prince."
 
 Glory eternal to the Hyperg'enot. Death and oblivion to the infidelos
