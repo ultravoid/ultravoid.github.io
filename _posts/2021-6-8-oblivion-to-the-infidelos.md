@@ -18,9 +18,9 @@ How long did it take these people to build their towers? Fine works of stone and
 Only generations of blood and will can raise such things; the blood of ancestors, spent to give a birth right to their descendants.<br>
 And now I come —the Razer Prince*— to burn which has been forfeited, to bring an end to legends and dreams.
 
-In the distance, siege artillery shells, strike a shield that has stood for a million zera'ton (~ 500,000 years). _Bom. Bom. Bom._ Every impact lighting up the protective dome and the city towers beneath with angry branching sparks that split and crawl into the night.<br>
+In the distance, siege artillery shells, strike a shield that has stood for a million zera'ton (~ 500,000 years). _Bom. Bom. Bom._ Every impact sending angry branching sparks that split and crawl into the night, and lighting up the protective dome of the shield, and the city towers beneath.<br>
 
-Each shell, brings this city closer to its destiny, a fate these arrogant _Ekta'ra_ sealed themselves, long ago, when they defied the my father —the Emperor Diatas. _Bom. Bom. Bom._ The vengeance of my Lion Knights will be brutal, as is fitting for those who dishonor us with such insolence. My father does not like repeating himself, in his wisdom, mercy leads to repetition.
+This city closer to its destiny, a fate these arrogant _Ekta'ra_ sealed themselves, long ago, when they defied my father —the Emperor Diatas. _Bom. Bom. Bom._ The vengeance of my Lion Knights will be brutal, as is fitting for those who dishonor us with such insolence. My father does not like repeating himself, in his wisdom, mercy leads to repetition.
 
 _Bom. Bom. Bom._
 
