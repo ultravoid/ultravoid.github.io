@@ -48,7 +48,7 @@ _"Vast are the stars; all belong to the first born; chosen of Coden —god-of-al
 - Oroto Rexus (Dre'Cladeshem) "Emperors are not forged not by blood"
     - High Lord Patriarch of the Rexus dynast, ArchKnight of Star Council
 - Daemos Rexus (Dre'Claseshem)
-    - High Lord Prince of the Hyperg'enot, son of Haego Rexus, Lord General of the Star-Lion Knights, High commander of the Hyperg'enot twelfth army.
+    - Prima Prince of the Hyperg'enot, son of Haego Rexus, Lord General of the Star-Lions, commander of the Hyperg'enot twelfth army.
 
 
 ### Voro Gata (temple of the Or'sato Greda), E'repadie (moon of Daratia), High protectorate space
