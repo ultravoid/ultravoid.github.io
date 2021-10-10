@@ -1,4 +1,4 @@
-## Ez'Rapta (the greater mountain lion)
+## Ez'Rapta (the greater mountain tiger)
 
 Ver'mel, Huso greater nation, upper kingdom
 
